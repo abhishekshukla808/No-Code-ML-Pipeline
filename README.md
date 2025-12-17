@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24214379/README.md)
-
 # No-Code Machine Learning Pipeline Builder (Web-Based)
 
 No-Code Machine Learning Pipeline Builder (Web-Based) is an interactive web application that allows users to build, configure, and run a complete machine learning workflow directly in the browser—without writing any code. Users can upload datasets, apply preprocessing steps, split data, select a model, and view results through a clear, step-by-step visual interface.
@@ -70,6 +68,7 @@ No external ML libraries
 Runs entirely in the browser
 
 
+
 ## Roadmap
 
 📁 Upload Data
@@ -83,9 +82,7 @@ Runs entirely in the browser
 📊 Results
 
 
-## Demo
 
-"C:\Users\shukl\Videos\Screen Recordings\Screen Recording 2025-12-17 183005.mp4"
 
 ## Deployment
 
@@ -106,4 +103,5 @@ npm run dev
 ```
 
 # Hi, I'm Abhishek Shukla 👋
+
 

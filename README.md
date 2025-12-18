@@ -43,46 +43,6 @@ Fast & Secure Execution
 Client-side processing ensures quick feedback and keeps user data local to the browser.
 
 
-## Tech Stack
-
-React 18 – Component-based architecture
-
-Vite – Fast build & development
-
-Tailwind CSS – Utility-first styling
-
-shadcn/ui – Clean, accessible UI components
-
-Lucide React – Icons for pipeline visualization
-
-ML (Browser-Based)
-
-Custom JavaScript implementations
-
-Logistic Regression
-
-Decision Tree Classifier
-
-No external ML libraries
-
-Runs entirely in the browser
-
-
-
-## Roadmap
-
-📁 Upload Data
-   ↓
-⚙️ Preprocessing
-   ↓
-🔀 Train–Test Split
-   ↓
-🧠 Model Selection
-   ↓
-📊 Results
-
-
-
 
 ## Deployment
 
@@ -102,6 +62,7 @@ Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
 
-# Hi, I'm Abhishek Shukla 👋
+
+
 
 
